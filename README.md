@@ -27,12 +27,12 @@ The **Flight Booking App** is a web-based application that allows users to **sea
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://ggithub.com/AQSA_UMER/Fly8-Booking-Angular-Project.git
+   git clone https://github.com/AQSA_UMER/Fly8-Booking-Angular-Project.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd fly8-Buddy
+   cd Fly8-Buddy
    ```
 
 3. **Install Frontend Dependencies:**
