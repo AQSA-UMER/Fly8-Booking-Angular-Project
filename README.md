@@ -32,7 +32,7 @@ The **Flight Booking App** is a web-based application that allows users to **sea
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd flight-booking-app
+   cd fly8-Buddy
    ```
 
 3. **Install Frontend Dependencies:**
